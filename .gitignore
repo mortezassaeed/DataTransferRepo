@@ -5,3 +5,4 @@ bin
 obj
 packages
 /.vs/DataTransferSample/DesignTimeBuild
+/.vs/DataTransferSample
